@@ -26,3 +26,8 @@ Generic ADT that help us with the worldAtlas ([Part A Repository](https://github
 run the following command:
 ```./Globe <HashNumber>< numberOfCountries><configuration>```
 while "HashNumber" is the required size of the hashtable, and the other parameters are the same as the previous project.
+
+
+<p align="center">
+<img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
+</p>
